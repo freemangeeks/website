@@ -98,3 +98,5 @@ Other parts are technical team (main network construction cost)
 (2) FM issued 100 million in total, resonance exchanged according to market destruction 1:3. Initial exchange price: 1 USTD:200FM,50000 pieces per layer. The price of the next layer will increase by 1% on the basis of the previous layer. Till 1FM = 100USDT, Freemen main network will be online!
 
 (3) Technical service 3%. Game players 97% capital cycle, FM exchange blood, future contract cover, the main network online value liquidation, cycle, virtuous circle! Data is fair, just and open!
+
+Game link:https://www.freemanchurch.com.
