@@ -101,4 +101,4 @@ Other parts are technical team (main network construction cost)
 
 Game link:https://www.freemanchurch.com
 
-Github link:https://freemangeeks.github.io/website
+Github Game link:https://freemangeeks.github.io/website
