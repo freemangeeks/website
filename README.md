@@ -13,9 +13,9 @@
 
 3. Log in to the website or DAPP portal;
 
-4. To participate in the game, first use USDT based on trx public chain to exchange for FM (FM issued 100 million in total, resonance exchanged according to market destruction 1:3. Initial exchange price: 1 USTD:200FM,50000 pieces per layer. The price of the next layer will increase by 1% on the basis of the previous layer. Till 1FM = 100USDT, Freemen main network will be online)
+4. To participate in the game, first use USDT based on trx public chain to exchange for FM (FM issued 100 million in total, resonance exchanged according to market destruction 1:3. Initial exchange price: 1 USTD:200FM,50000 pieces per layer. The price of the next layer will increase by 1% on the basis of the previous layer.)
 
-5. Players use the value of over 300USDT + 10% FM to participate in the game. After activating the address, the player can get 3.3 times of the amount of participating USDT. Bonus will be shared according to 4 ‰ of daily last UADT number to the end, the players can repeat to join the game from the beginning anytime. (all FM players directly enter the black hole for destruction)
+5. Players use the value of over 300USDT + 10% FM to participate in the game. After activating the address, the player can get 3.3 times of the amount of participating USDT. Bonus will be shared according to 4 ‰ of daily last USTD number to the end, the players can repeat to join the game from the beginning anytime. (all FM players directly enter the black hole for destruction)
 
 
 
@@ -99,4 +99,5 @@ Other parts are technical team (main network construction cost)
 
 (3) Technical service 3%. Game players 97% capital cycle, FM exchange blood, future contract cover, the main network online value liquidation, cycle, virtuous circle! Data is fair, just and open!
 
-Game link:https://www.freemanchurch.com.
+Game link:https://www.freemanchurch.com
+Github link:https://freemangeeks.github.io/website
