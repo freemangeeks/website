@@ -100,4 +100,5 @@ Other parts are technical team (main network construction cost)
 (3) Technical service 3%. Game players 97% capital cycle, FM exchange blood, future contract cover, the main network online value liquidation, cycle, virtuous circle! Data is fair, just and open!
 
 Game link:https://www.freemanchurch.com
+
 Github link:https://freemangeeks.github.io/website
