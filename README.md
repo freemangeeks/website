@@ -56,7 +56,7 @@ Direct push sharing: 9% of the first layer, 6% of the second layer, and 5% of th
 
 2. Game node:
 
-(1) V1 node: 3% (share 10 directly, total number of all markets equal to or greater than 150000 USDT)
+(1) V1 node: 3% (share 10 directly, total number of all markets equal to or greater than 100000 USDT)
 
 (2) V2 node: 6% (V1 node with two different markets)
 
